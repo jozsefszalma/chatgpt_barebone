@@ -5,7 +5,7 @@ work in progress!
 ### set up 
 env variables (e.g. in a .env file if using vscode) 
 - "KEY", for your openai API key 
-- optionally "PROMPT_SYSTEM" if you want to give your chatbot a default personality (e.g. helpful expert in area x)
+- "PROMPT_SYSTEM" (optionally) if you want to give your chatbot a default personality (e.g. helpful expert in area x)
 
 ### known issues:
 - this was built and tested in vscode, probably won't work in some other environments (e.g. Databricks Jupyter does not handle ipywidgets properly)
